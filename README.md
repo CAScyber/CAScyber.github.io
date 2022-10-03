@@ -6,8 +6,6 @@
 
 Welcome to my site! 🛴
 
-<script>prompt("Enter something")</script>
-
 ⚫ I'm 34.
 
 ⚫ I like nature and tech.
