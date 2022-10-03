@@ -1,20 +1,20 @@
 # CAScyber.github.io
 
-Welcome to my site!
+Welcome to my site! 🛴
 
--I'm 34.
+⚫ I'm 34.
 
--I like nature and tech.
+⚫ I like nature and tech.
 
--I enjoy minimalism.
+⚫ I enjoy minimalism.
 
--I have a H.S Diploma.
+⚫ I have a H.S Diploma.
 
--Member of Authors Guild and ASCAP.
+⚫ Member of Authors Guild and ASCAP.
 
--Writer of Modicum and A Quick Guide to Audio Production.
+⚫ Writer of Modicum and A Quick Guide to Audio Production.
 
--Computer Beats: Over 200 Placements on TV/Film.
+⚫ Computer Beats: Over 200 Placements on TV/Film.
 
-That's about it. I'm making this a really simple site to place any
+🪐 That's about it. I'm making this a really simple site to place any
 writings and philosophical ideas, concepts, etc.
