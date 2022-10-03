@@ -18,9 +18,9 @@ Welcome to my site! 🛴
 
 ⚫ I have a H.S Diploma.
 
-⚫ Member of Authors Guild and ASCAP.
+⚫ Member of <a href="">Authors Guild and ASCAP</a>.
 
-⚫ Writer of Modicum and A Quick Guide to Audio Production.
+⚫ Writer of <a href="https://www.amazon.com/Jeffrey-Toves-ebook/dp/B09PH5MLNW/ref=mp_s_a_1_8?crid=1K0WMFY238UHX&keywords=modicum+toves&qid=1655598646&sprefix=modicum+toves%2Caps%2C548&sr=8-8">Modicum</a> and <a href="https://www.amazon.com/gp/product/B0B5ZF3SP2/ref=dbs_a_def_awm_bibl_vppi_i1">A Quick Guide to Audio Production</a>.
 
 ⚫ Computer Beats: Over 200 Placements on TV/Film.
 
