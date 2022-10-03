@@ -10,19 +10,19 @@
 <br>
 Welcome to my site! 🛴
 
-⚫ I'm 34.
+• I'm 34.
 
-⚫ I like nature and tech.
+• I like nature and tech.
 
-⚫ I enjoy minimalism.
+• I enjoy minimalism.
 
-⚫ I have a H.S Diploma.
+• I have a H.S Diploma.
 
-⚫ Member of <a href="https://www.linkedin.com/mwlite/in/jgtoves">Authors Guild and ASCAP</a>.
+• Member of <a href="https://www.linkedin.com/mwlite/in/jgtoves">Authors Guild and ASCAP</a>.
 
-⚫ Writer of <a href="https://www.amazon.com/Jeffrey-Toves-ebook/dp/B09PH5MLNW/ref=mp_s_a_1_8?crid=1K0WMFY238UHX&keywords=modicum+toves&qid=1655598646&sprefix=modicum+toves%2Caps%2C548&sr=8-8">Modicum</a> and <a href="https://www.amazon.com/gp/product/B0B5ZF3SP2/ref=dbs_a_def_awm_bibl_vppi_i1">A Quick Guide to Audio Production</a>.
+• Writer of <a href="https://www.amazon.com/Jeffrey-Toves-ebook/dp/B09PH5MLNW/ref=mp_s_a_1_8?crid=1K0WMFY238UHX&keywords=modicum+toves&qid=1655598646&sprefix=modicum+toves%2Caps%2C548&sr=8-8">Modicum</a> and <a href="https://www.amazon.com/gp/product/B0B5ZF3SP2/ref=dbs_a_def_awm_bibl_vppi_i1">A Quick Guide to Audio Production</a>.
 
-⚫ Computer Beats: Over 200 Placements on TV/Film.
+• Computer Beats: Over 200 Placements on TV/Film.
 
 🪐 That's about it. I'm making this a really simple site to place any
 writings and philosophical ideas, concepts, etc.
