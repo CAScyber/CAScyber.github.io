@@ -6,7 +6,7 @@
 <a href="https://github.com/CAScyber/CAScyber.github.io" target="_blank">My Github</a>
 <br>
 <br>
-<img src="https://f004.backblazeb2.com/file/Haks123/Images/DSC01112.JPG"></img>
+<img src="https://f004.backblazeb2.com/file/Haks123/Images/DSC01112.JPG">
 <br>
 Welcome to my site! 🛴
 
