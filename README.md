@@ -10,7 +10,7 @@
 <br>
 Welcome to my site! 🛴
 
-• I'm 34.
+• I'm 34. I hope NOONE is paying attention. 🤓
 
 • I like nature and tech.
 
