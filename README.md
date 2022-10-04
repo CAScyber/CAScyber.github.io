@@ -29,9 +29,7 @@ writings and philosophical ideas, concepts, etc.
 
 🛹
 
-<script>var word = "Reader for my_Users:";
-document.write(word.bold);
-</script>
+<H1>Reader for my_Users:</H1>
 
 ☣️
 
