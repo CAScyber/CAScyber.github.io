@@ -27,6 +27,8 @@ Welcome to my site! 🛴
 🪐 That's about it. I'm making this a really simple site to place any
 writings and philosophical ideas, concepts, etc.
 
+Oh, and I'm an INTJ🕵️: taken officially in 2021. I always knew that, though......
+
 🛹
 
 <H1>Reader for my_Users:</H1>
