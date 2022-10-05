@@ -68,7 +68,7 @@ I spent a lot of time on certain topics. I wrote two books, well, three actually
  ☣️
 
 <time>2022-10-05</time><br>A.I generated art<br>
-I created a repo on mt GitHub for writing scripts into GIF's, and I thought it would be fun to use A.I generated art GIF's to begin. I just wanted to post some additional A.I art that was not included in the repository:
+I created a repo on my GitHub for writing scripts into GIF's, and I thought it would be fun to use A.I generated art GIF's to begin. I just wanted to post some additional A.I art that was not included in the repository:
 <br>
 <br>
 <img src="https://f004.backblazeb2.com/b2api/v1/b2_download_file_by_id?fileId=4_ze04938f492835fad82330b11_f1163bdafe6b747cc_d20221005_m111449_c004_v0402000_t0026_u01664968489850" />
