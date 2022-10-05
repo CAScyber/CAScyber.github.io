@@ -16,6 +16,8 @@ Welcome to my site! 🛴
 
 • I enjoy minimalism.
 
+• I care only to be myself. Not OTHERS.
+
 • I have a H.S Diploma.
 
 • Member of <a href="https://www.linkedin.com/mwlite/in/jgtoves">Authors Guild and ASCAP</a>.
