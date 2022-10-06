@@ -78,4 +78,10 @@ I created a repo on my GitHub for writing scripts into GIF's, and I thought it w
 <br>
 <img src="https://f004.backblazeb2.com/b2api/v1/b2_download_file_by_id?fileId=4_ze04938f492835fad82330b11_f108e3ef16dbdf355_d20221005_m111507_c004_v0402007_t0033_u01664968507317" />
 <br>
+
+☣️
+
+<time>2022-10-06</time><br>Life<br>
+Life has in it so many altering ideas that sometimes it's just a lot to deal with. You just want to chill sometimes. When it was postulated people are hell, this is one reason for this; their life altering deceptions and lifestyles. I am grown, and my past haunts me like any other, however, I work on maintaining my gratitude. I can see past these events, such as the "told you so" in life, often from people who live with a rigid fate mentality. This is when their fate becomes your problem. Also, staying happy in general with people and what life throws at you. Not everyone is happy, and I haven't been the happiest either in recent years, but I am grateful that with these things thrown at me, I can be happy in knowing that I am not responsible for their lack of self control. I know how it sounds, but happiness seems to sorta rest on this stuff these days. People look over here, and they go, "wtf is that?" Well, it's my life, and if you're going to get mad about it, then please go. If you won't, I will. Life is life. 
+
 # © 2022 CAScyber.
