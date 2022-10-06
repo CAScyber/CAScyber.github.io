@@ -1,0 +1,5 @@
+# ignore ALL text files
+*.txt
+
+# ignore ALL files in ANY directory named showoff
+showoff/
