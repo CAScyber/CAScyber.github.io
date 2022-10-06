@@ -1,5 +1,5 @@
 # CAScyber.github.io
-<body style="background-color:blue" />
+
 <a href="http://www.google.com" target="_blank"></a> <br>
 <a href="http://www.whitehouse.gov"></a>
 <a href="http://www.nsa.gov"></a>
