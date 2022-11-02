@@ -13,7 +13,7 @@
 
 • I'm 34. I hope NOONE is paying attention. 😐
 
-• I like nature and tech.
+• I like security, technology, and business.
 
 • I enjoy minimalism.
 
