@@ -48,10 +48,6 @@ As I look around, I see that my adulthood has reached me fully. My friends are g
 
 ☣️
 
-<time>2022-10-04</time><br>Messed Up<br>
-Cool hack. If you're hanging out and you wish to know if you're right or wrong about your paranoia, if your city seems overly popular, you can do a quick Google search and base your decision off of the number of search results returned, inferentially speaking. If every major city 'floors you' in regard to this, yes, you are paranoid thinking your city is being overtaken by Chinese communists. If your city is getting back 3 times the amount of hits than Ventura, LBC, Culver, whatever, then maybe there's something to talk about. This also works with other things, too. Additionally, you can do a comparative statistical analysis on Google trends, and see if LA Vs 'Brook Harbor' says anything interesting. A lot of my life's mysteries were solved this way. This can be considered an OSINT hack.
-
-☣️
 
 <time>2022-10-04</time><br>Rays of Logic<br>
 Some things are best left unsaid, and I really wish this be the case, since I've gone through tons of ideas in my young adulthood. I want to add here all those ideas that I really do think might matter, and can really help set context for my life, and maybe other's lives. I want this to be a semiformal oath to be more formal with my ideas and not hang on sub par postulations that might be too simple. Some things I am referring to is, ethnic conflict being obvious in America: Mexican. Or better, middle easterners are in poverty in a large way: why for bombing? Or, if we swung as prehuman primates, why is it so farfetched that we equalized this by lower body flexion? It seems all good, until science comes along and induction doesn't do the trick. It might be a good thing to call out some things, but for me, I have seen a lot, and I can see what works. Comprehensiveness is what matters, and so inferences are only one step, and that step might not be what you want or what is right.
